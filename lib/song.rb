@@ -16,7 +16,7 @@ class Song
     @@count
   end
   
-  def self.genres
-    @@genres << #{@genre}
+  def self.genre
+    @@genres << 
   end
 end
